@@ -2,6 +2,10 @@
 
 This project is a simple chatbot application that recommends songs based on the user's entered mood. It aims to provide personalized music recommendations by utilizing an AI model that I developed and trained for the first time. The application is built with modern web development tools: React and Vite.
 
+
+<img width="959" alt="basicMusicRecommenderChatBot" src="https://github.com/user-attachments/assets/c49cf547-b098-4f00-b598-13da605e1f79" />
+
+
 ## ✨ Features
 
 * **Mood-Based Music Recommendations:** Analyzes the user's mood and suggests suitable songs.
